@@ -1,5 +1,5 @@
 # ShareSDK-JavaScript-Wiki-for-iOS-CN
-## ShareSDK-iOS (v3.x) for JavaScript 
+## ShareSDK-iOS for JavaScript 
 * JavaScript开发者方便的集成ShareSDK分享和授权功能。
 
 ## 目录
